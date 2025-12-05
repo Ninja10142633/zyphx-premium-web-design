@@ -7,7 +7,8 @@ import {
   AdaptiveIcon, 
   PerformanceIcon, 
   BrandIcon, 
-  IntegrateIcon 
+  IntegrateIcon,
+  GraphicDesignIcon
 } from "@/components/icons/CustomIcons";
 
 export default function ServicesSection() {
@@ -23,6 +24,12 @@ export default function ServicesSection() {
       title: "UI/UX Design",
       description:
         "Stunning, intuitive interfaces that captivate users and deliver exceptional experiences.",
+    },
+    {
+      icon: GraphicDesignIcon,
+      title: "Graphic Design",
+      description:
+        "Creative visual solutions including logos, branding materials, and marketing assets that make your brand stand out.",
     },
     {
       icon: AdaptiveIcon,
