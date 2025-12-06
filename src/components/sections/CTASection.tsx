@@ -65,7 +65,7 @@ export default function CTASection() {
             className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16"
           >
             <motion.a
-              href="mailto:hello@zyphx.studio"
+              href="mailto:hellozyphx@gmail.com"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
               transition={{ duration: 0.2 }}
@@ -105,10 +105,10 @@ export default function CTASection() {
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-6 text-sm">
               <a
-                href="mailto:hello@zyphx.studio"
+                href="mailto:hellozyphx@gmail.com"
                 className="text-white/60 hover:text-white transition-colors font-light"
               >
-                hello@zyphx.studio
+                hellozyphx@gmail.com
               </a>
               <span className="hidden sm:inline text-white/20">•</span>
               <a
